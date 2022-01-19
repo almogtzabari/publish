@@ -2,7 +2,7 @@
 **Navigation**:
 [[Python]]
 
-Here's a code example of how to hide prints in [[Python]]:
+Here's a code example of how to hide prints in Python:
 
 ```Python
 class HidePrints:
