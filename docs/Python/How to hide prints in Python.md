@@ -15,21 +15,3 @@ class HidePrints:
 with HidePrints():
     function_that_prints_bullshit()
 ```
---- 
-
-### Related Notes
-```dataview
-TABLE WITHOUT ID
-	file.cday as "Created",
-	link(file.link, file.title) as "File Name"
-
-FROM "" WHERE
-	file!=this.file
-	AND !contains(file.path, "Templates")
-	AND (
-		contains(file.outlinks, this.file.link)
-		OR contains(this.file.outlinks, file.link)
-	)
-
-SORT file.ctime DESC
-```
