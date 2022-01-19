@@ -1,5 +1,5 @@
 # How to hide prints in Python
-Here's a code example of how to hide prints in [[publish/docs/Python/index]]:
+Here's a code example of how to hide prints in [[publish/docs/notes/index]]:
 
 ```Python
 class HidePrints:
