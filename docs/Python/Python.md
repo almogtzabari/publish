@@ -6,5 +6,5 @@
 Welcome to my Python page
 
 ### How-Tos
-- [[How To Convert PDF To Images]]
-- [[How to hide prints in Python]]
+- [[how_to_convert_pdf_to_images]]
+- [[how_to_hide_prints_in_python]]

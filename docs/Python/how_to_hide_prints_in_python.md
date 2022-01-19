@@ -1,6 +1,6 @@
 # How to hide prints in Python
 **Navigation**:
-[[Python]]
+[[python]]
 
 Here's a code example of how to hide prints in Python:
 
