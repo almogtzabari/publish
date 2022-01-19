@@ -6,7 +6,7 @@ aliases:
 # Python
 
 **Navigation**
-[[index|Home]]
+[[index|Back to Home]]
 
 ---
 
