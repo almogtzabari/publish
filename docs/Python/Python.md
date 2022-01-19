@@ -1,7 +1,14 @@
+---
+aliases:
+- Python
+---
+
 # Python
 
-**Navigation**:
+**Navigation**
 [[index|Home]]
+
+---
 
 Welcome to my Python page
 
