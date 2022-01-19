@@ -1,6 +1,6 @@
-site_name: Obsidian Mkdocs
+site_name: Almog's Notes
 site_description: A mkdocs wiki template for Obsidian
-site_url: https://mara-li.github.io/mkdocs_obsidian_template
+site_url: https://almogtzabari.github.io/publish
 
 theme:
     name: 'material'
