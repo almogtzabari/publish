@@ -1,3 +1,7 @@
+---
+aliases:
+- How To Convert PDF To Images
+---
 # How To Convert PDF To Images
 
 **Navigation**

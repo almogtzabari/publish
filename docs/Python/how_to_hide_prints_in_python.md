@@ -1,3 +1,8 @@
+---
+aliases:
+- How To Hide Prints In Python
+---
+
 # How to hide prints in Python
 
 **Navigation**
