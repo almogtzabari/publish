@@ -6,4 +6,4 @@ aliases:
 Hello and welcome to my obsidian published notes website :)
 
 ### Topics
-- [[python1|Python]]
+- [[python|Python]]

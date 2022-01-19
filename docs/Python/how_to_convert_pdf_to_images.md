@@ -5,7 +5,7 @@ aliases:
 # How To Convert PDF To Images
 
 **Navigation**
-[[python1|Python]]
+[[python|Python]]
 
 ---
 
