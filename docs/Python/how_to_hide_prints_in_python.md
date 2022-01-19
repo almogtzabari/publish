@@ -6,7 +6,7 @@ aliases:
 # How to hide prints in Python
 
 **Navigation**
-[[python|Python]]
+[[python1|Python]]
 
 ---
 
