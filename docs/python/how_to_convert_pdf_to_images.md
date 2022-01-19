@@ -8,7 +8,7 @@ aliases:
 [[python|Python]]
 
 ---
-1
+
 Follow these steps in order to convert PDF files to images using Python:
 1. Run `pip install pdf2image`.
 2. Run script below:
