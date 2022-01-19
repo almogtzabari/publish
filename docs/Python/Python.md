@@ -1,5 +1,8 @@
 # Python
+
+**Navigation**:
 [[index|Home]]
+
 Welcome to my Python page
 
 ### How-Tos
