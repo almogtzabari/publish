@@ -1,6 +1,6 @@
 site_name: Almog's Published Notes
 site_description: Almog's Published Notes
-site_url: https://almogtzabari.github.io/publish
+site_url: https://obsidian.tzabari.com/
 
 theme:
     name: 'material'
