@@ -1,1 +1,0 @@
-A like to [[note3]]
