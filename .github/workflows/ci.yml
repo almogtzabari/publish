@@ -13,5 +13,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install -r requirements.txt
-      - run: cp CNAME build/
       - run: mkdocs gh-deploy --force
