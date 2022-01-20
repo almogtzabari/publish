@@ -1,5 +1,7 @@
 # About
-Navigation:
-[[index|Home]]
+**Navigation**
+[[index|Back to Home]]
+
+---
 
 Hi, my name is Almog :)

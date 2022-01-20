@@ -4,7 +4,6 @@ aliases:
 ---
 
 # Python
-
 **Navigation**
 [[index|Back to Home]]
 

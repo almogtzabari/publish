@@ -3,7 +3,6 @@ aliases:
 - How To Convert PDF To Images
 ---
 # How To Convert PDF To Images
-
 **Navigation**
 [[python|Back to Python]]
 

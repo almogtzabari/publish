@@ -4,7 +4,6 @@ aliases:
 ---
 
 # How to hide prints in Python
-
 **Navigation**
 [[python|Back to Python]]
 

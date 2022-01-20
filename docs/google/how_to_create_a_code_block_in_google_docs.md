@@ -7,6 +7,8 @@ aliases:
 **Navigation**
 [[google_docs|Back to Google Docs]]
 
+---
+
 Follow these steps in order to create a code block in Google Docs:
 1. Create an table of size `1x1`.
 2. Fill the background color of that cell with a color similar to the IDE.
