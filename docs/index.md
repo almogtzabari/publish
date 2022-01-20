@@ -12,3 +12,4 @@ On this page/note you can find different topics that I have notes about.
 - [[python|Python]]
 - [[google|Google]]
 - [[vscode|VSCode]]
+- [[ffmpeg|FFmpeg]]
