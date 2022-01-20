@@ -4,4 +4,7 @@
 
 ---
 
-Hi, my name is Almog :)
+Hi, my name is Almog and I use [Obsidian](https://obsidian.md/).
+
+**Social**
+[`ris:Github`Github](https://github.com/almogtzabari) | [`ris:Instagram`Instagram](https://www.instagram.com/almog_tzabari/)
